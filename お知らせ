@@ -12,9 +12,7 @@
 
 <body>
     <div class="hamburger">
-        <div class="logo">
-            <a href="https://tadashikuroi.github.io">KUROI TDASHI</a>
-        </div>
+        <div class="logo">KUROI TDASHI</div>
         <p class="btn-gNav">
             <span></span>
             <span></span>
